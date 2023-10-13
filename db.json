@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "testando ",
+      "author": "typicode",
+      "content": ""
+    },
+    {
+      "title": "mudando",
+      "content": "",
+      "author": "Angelo",
+      "id": 2
+    },
+    {
+      "title": "Quasar",
+      "content": "",
+      "author": "âNGELO DEV",
+      "id": 3
+    }
+  ]
+}
